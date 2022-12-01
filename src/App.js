@@ -62,7 +62,7 @@ function App() {
         {/* 3rd section */}
         <section className=" bg-white mt-20 lg:mt-[12rem] flex flex-col items-center">
           <div className=" lg:flex lg:justify-between lg:items-center w-[92%] ">
-            <h2 className=" font-josephine uppercase  text-Black text-3xl">
+            <h2 className=" font-josephine uppercase text-center  text-Black text-3xl">
               Our creations
             </h2>
             <button className=" hover:bg-black hover:text-White  mt-8 lg:mt-0 hidden lg:inline-block  border-2 border-Black px-8 py-1 uppercase font-Atala tracking-widest text-Black ">
