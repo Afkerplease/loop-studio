@@ -5,12 +5,12 @@ import menu from "../images/icon-hamburger.svg";
 
 function NavBar() {
   return (
-    <nav className=" flex items-center justify-between px-8 py-5 ">
+    <nav className=" flex items-center lg:py-10 lg:px-20 lg:w-[100%] justify-between px-8 py-5 ">
       <img src={logo} alt="" />
       <div className="md:hidden">
         <img src={menu} alt="" />
       </div>
-      <ul className=" hidden  mr-5 font-Atala text-white md:flex items-center gap-4">
+      <ul className=" hidden  mr-5 font-Atala text-white md:flex items-center lg:gap-8 gap-4">
         <li>
           <a href="#" className=" hover:border-b-2 border-White">
             About

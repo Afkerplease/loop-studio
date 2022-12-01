@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         White: "hsl(0, 0%, 100%)",
+        White2: "hsla(0, 0%, 100%,0.8)",
 
         DarkGray: "hsl(0, 0%, 55%)",
         Black: "hsl(0, 0%, 0%)",
